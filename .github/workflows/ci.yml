@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: 'ci-${{ github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+      - name: Build static site
+        run: npm run build
+      - name: Verify output
+        run: |
+          set -eu
+          for f in index.html 404.html sitemap.xml site.webmanifest _headers llms.txt; do
+            test -f "dist/$f" || { echo "missing dist/$f"; exit 1; }
+          done
+          pages=$(find dist -name '*.html' | wc -l)
+          echo "HTML pages: $pages"
+          test "$pages" -ge 25
