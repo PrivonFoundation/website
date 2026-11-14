@@ -1,0 +1,1993 @@
+{
+  "constants": {
+    "TRANSLATIONS": {
+      "ro": {
+        "MISSION": "Transformăm securitatea complexă într-un standard silențios pentru viața digitală de zi cu zi.",
+        "HERO_SLOGAN_1": "Securitate prin",
+        "HERO_SLOGAN_2": "Implicit",
+        "HERO_SLOGAN_3": "Confidențialitate ca",
+        "HERO_SLOGAN_4": "Standard",
+        "HERO_DESC": "Redobândește accesul la datele tale prin criptare pe partea clientului și zero-knowledge.",
+        "BTN_ACCESS": "Despre Noi",
+        "BTN_DOCS": "Documentație",
+        "THE_STANDARD": "Standardul",
+        "PACT_TITLE": "Protocol 3305: Un Pact Pentru Demnitate.",
+        "PREAMBLE_LABEL": "Preambul",
+        "PREAMBLE_TEXT": "Într-o eră în care datele personale au devenit cea mai valoroasă marfă, a apărut o paradigmă periculoasă: capitalismul de supraveghere. Software-ul mainstream, oferit adesea „gratuit”, este proiectat pentru a monitoriza, analiza și monetiza exact persoanele pe care pretinde că le servește. Această paradigmă erodează demnitatea digitală, compromite securitatea personală și creează un dezechilibru de putere inacceptabil între corporații și indivizi.",
+        "PROTOCOL_DESC": "Protocolul 3305 este un standard deschis și nenegociabil, conceput pentru a demonta această paradigmă. Acesta oferă un set de principii auditabile și verificabile tehnic pentru orice organizație angajată în protejarea persoanei din spatele ecranului.",
+        "ADHERENCE": "Aderarea la acest protocol confirmă faptul că un serviciu este structural incapabil să își exploateze oamenii, fiind construit pe o fundație de tip zero-knowledge și zero-trust.",
+        "FOOTER_MISSION": "Suntem aici să facem intimitatea standard.",
+        "APPS_SECTION_TITLE": "Proiecte",
+        "APPS": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Seif Digital",
+            "desc": "All-in-One Privacy, manager de fișiere cu criptare client-side, galerie, player muzical și vizualizator de documente unde confidențialitatea ta vine pe primul loc.",
+            "logoImage": "/CrytoTool.png",
+            "features": [
+              "4 în 1",
+              "Multiplatform: Windows, Linux, macOS și Android",
+              "6 Algoritmi de Criptare",
+              "52 de Limbi",
+              "100 de Teme"
+            ]
+          }
+        ],
+        "NAV": {
+          "HOME": "Acasă",
+          "PROTOCOL": "Protocol",
+          "PHILOSOPHY": "Filozofie",
+          "VISION": "Viziune",
+          "VAULT": "Aplicații",
+          "INFRA": "Infrastructură",
+          "ETHICS": "Etică",
+          "ABOUT": "Despre Noi",
+          "CONTACT": "Contact",
+          "MENU": "Meniu"
+        },
+        "ANDROID_TITLE": "Menținem Android Deschis: Luptă Împotriva Închiderii.",
+        "ANDROID_LABEL": "Context",
+        "ANDROID_PREAMBLE": "Începând cu septembrie 2026, Google va impune ca fiecare aplicație Android să fie înregistrată de un dezvoltator verificat. Această verificare necesită plata unei taxe, predarea unui act de identitate guvernamental, dovada cheilor private de semnare și listarea tuturor aplicațiilor. Aceasta nu este o măsură de securitate — este o închidere a ecosistemului deschis care a definit Android de la început.",
+        "ANDROID_CARD_TEXT": "La Privon Foundation, credem că dreptul de a instala software pe un dispozitiv pe care l-ai cumpărat este fundamental. Ne angajăm să luptăm împotriva acestei mișcări și să facem vocea comunității auzită. Nu vom sta cu brațele încrucișate în timp ce o corporație închide o platformă construită pe promisiunea libertății.",
+        "ANDROID_ARTICLES": [
+          {
+            "id": "STEP 01",
+            "title": "Instalează F-Droid",
+            "desc": "Alternativele supraviețuiesc doar dacă oamenii le folosesc. Instalează F-Droid pe fiecare dispozitiv Android pe care îl deții.",
+            "pilar": "Acțiune",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 02",
+            "title": "Semnează Petiția",
+            "desc": "Peste 100.000 de semnatari s-au alăturat deja. Fă-ți vocea auzită pe change.org și oprește această mișcare.",
+            "pilar": "Acțiune",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 03",
+            "title": "Distribuie Mesajul",
+            "desc": "Link către keepandroidopen.org peste tot. Nu lăsa narativa să fie setată de alții. Fiecare persoană informată contează.",
+            "pilar": "Comunitate",
+            "status": "Ongoing"
+          },
+          {
+            "id": "STEP 04",
+            "title": "Contactează Regulatorii",
+            "desc": "Regulatorii din întreaga lume sunt preocupați de monopoluri și centralizare. Vor să audă direct de la persoanele afectate.",
+            "pilar": "Comunitate",
+            "status": "Ongoing"
+          }
+        ],
+        "ANDROID_LINKS": [
+          {
+            "label": "Keep Android Open",
+            "url": "https://keepandroidopen.org"
+          },
+          {
+            "label": "Open Letter (F-Droid)",
+            "url": "https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html"
+          },
+          {
+            "label": "Change.org Petition",
+            "url": "https://www.change.org/p/stop-google-from-limiting-apk-file-usage/"
+          }
+        ]
+      },
+      "en": {
+        "MISSION": "Transforming complex security into a silent standard for everyday digital life.",
+        "HERO_SLOGAN_1": "Security By",
+        "HERO_SLOGAN_2": "Default",
+        "HERO_SLOGAN_3": "Privacy As",
+        "HERO_SLOGAN_4": "Standard",
+        "HERO_DESC": "Reclaim access to your data through client-side encryption and zero-knowledge.",
+        "BTN_ACCESS": "Secure Access",
+        "BTN_DOCS": "Documentation",
+        "THE_STANDARD": "The Standard",
+        "PACT_TITLE": "Protocol 3305: A Pact For Dignity.",
+        "PREAMBLE_LABEL": "Preamble",
+        "PREAMBLE_TEXT": "In an era where personal data has become the most valuable commodity, a dangerous paradigm has emerged: surveillance capitalism. Mainstream software, often offered for \"free,\" is architected to monitor, analyze, and monetize the very people it claims to serve. This paradigm erodes digital dignity and compromises personal security.",
+        "PROTOCOL_DESC": "Protocol 3305 is an open, non-negotiable standard designed to dismantle this paradigm. It provides a set of auditable, technically verifiable principles for any organization committed to building software that respects the person behind the screen.",
+        "ADHERENCE": "Adherence to this protocol signifies that a service is structurally incapable of exploiting its people, because it is built on a foundation of zero-knowledge and zero-trust.",
+        "FOOTER_MISSION": "We are here to make privacy the standard.",
+        "APPS_SECTION_TITLE": "Projects",
+        "APPS": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Digital Vault",
+            "desc": "All-in-One Privacy, client-side encryption file manager, gallery, music player, and document viewer where your privacy comes first.",
+            "logoImage": "/CrytoTool.png",
+            "features": [
+              "4 in 1",
+              "Multiplatform: Windows, Linux, macOS & Android",
+              "6 Encryption Algorithms",
+              "52 Languages",
+              "100 Themes"
+            ]
+          }
+        ],
+        "NAV": {
+          "HOME": "Home",
+          "PROTOCOL": "Protocol",
+          "PHILOSOPHY": "Philosophy",
+          "VISION": "Vision",
+          "VAULT": "Apps",
+          "INFRA": "Infrastructure",
+          "ETHICS": "Ethics",
+          "ABOUT": "About Us",
+          "CONTACT": "Contact",
+          "MENU": "Menu"
+        },
+        "ANDROID_TITLE": "Keep Android Open: Fight The Lockdown.",
+        "ANDROID_LABEL": "Context",
+        "ANDROID_PREAMBLE": "Starting September 2026, Google will require every Android app to be registered by a verified developer. This verification requires paying a fee, surrendering government ID, providing evidence of private signing keys, and listing all applications. This is not a security measure — it is a lockdown of the open ecosystem that has defined Android from the start.",
+        "ANDROID_CARD_TEXT": "At Privon Foundation, we believe the right to install software on a device you purchased is fundamental. We commit to fighting this move and making the community's voice heard. We will not stand idly by while a corporation closes a platform built on the promise of freedom.",
+        "ANDROID_ARTICLES": [
+          {
+            "id": "STEP 01",
+            "title": "Install F-Droid",
+            "desc": "Alternatives only survive if people actually use them. Install F-Droid on every Android device you own.",
+            "pilar": "Action",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 02",
+            "title": "Sign the Petition",
+            "desc": "Over 100,000 signatories have already joined. Make your voice heard on change.org and stop this movement.",
+            "pilar": "Action",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 03",
+            "title": "Spread the Word",
+            "desc": "Link to keepandroidopen.org everywhere. Don't let others set the narrative. Every informed person matters.",
+            "pilar": "Community",
+            "status": "Ongoing"
+          },
+          {
+            "id": "STEP 04",
+            "title": "Contact Regulators",
+            "desc": "Regulators worldwide are concerned about monopolies and centralization. They want to hear directly from affected individuals.",
+            "pilar": "Community",
+            "status": "Ongoing"
+          }
+        ],
+        "ANDROID_LINKS": [
+          {
+            "label": "Keep Android Open",
+            "url": "https://keepandroidopen.org"
+          },
+          {
+            "label": "Open Letter (F-Droid)",
+            "url": "https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html"
+          },
+          {
+            "label": "Change.org Petition",
+            "url": "https://www.change.org/p/stop-google-from-limiting-apk-file-usage/"
+          }
+        ]
+      },
+      "es": {
+        "MISSION": "Transformando la seguridad compleja en un estándar silencioso para la vida digital cotidiana.",
+        "HERO_SLOGAN_1": "Seguridad Por",
+        "HERO_SLOGAN_2": "Defecto",
+        "HERO_SLOGAN_3": "Privacidad Como",
+        "HERO_SLOGAN_4": "Estándar",
+        "HERO_DESC": "Recupera el acceso a tus datos mediante cifrado del lado del cliente y zero-knowledge.",
+        "THE_STANDARD": "El Estándar",
+        "PACT_TITLE": "Protocolo 3305: Un Pacto Por La Dignidad.",
+        "PREAMBLE_LABEL": "Preámbulo",
+        "PREAMBLE_TEXT": "En una era en la que los datos personales se han convertido en la mercancía más valiosa, ha surgido un paradigma peligroso: el capitalismo de vigilancia. El software convencional, a menudo ofrecido \"gratis\", está diseñado para monitorear, analizar y monetizar a las mismas personas que dice servir. Este paradigma erosiona la dignidad digital y compromete la seguridad personal.",
+        "PROTOCOL_DESC": "El Protocolo 3305 es un estándar abierto e innegociable diseñado para desmantelar este paradigma. Proporciona un conjunto de principios auditables y técnicamente verificables para cualquier organización comprometida con construir software que respete a la persona detrás de la pantalla.",
+        "ADHERENCE": "La adhesión a este protocolo significa que un servicio es estructuralmente incapaz de explotar a sus personas, porque está construido sobre una base de zero-knowledge y zero-trust.",
+        "FOOTER_MISSION": "Estamos aquí para hacer de la privacidad un estándar.",
+        "APPS_SECTION_TITLE": "Proyectos",
+        "APPS": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Bóveda Digital",
+            "desc": "All-in-One Privacy, administrador de archivos con cifrado client-side, galería, reproductor de música y visor de documentos donde tu privacidad es lo primero.",
+            "logoImage": "/CrytoTool.png",
+            "features": [
+              "4 en 1",
+              "Multiplataforma: Windows, Linux, macOS y Android",
+              "6 Algoritmos de Cifrado",
+              "52 Idiomas",
+              "100 Temas"
+            ]
+          }
+        ],
+        "NAV": {
+          "HOME": "Inicio",
+          "PROTOCOL": "Protocolo",
+          "PHILOSOPHY": "Filosofía",
+          "VISION": "Visión",
+          "VAULT": "Apps",
+          "INFRA": "Infraestructura",
+          "ETHICS": "Ética",
+          "ABOUT": "Sobre Nosotros",
+          "CONTACT": "Contacto",
+          "MENU": "Menú"
+        },
+        "ANDROID_TITLE": "Mantén Android Abierto: Lucha Contra El Cierre.",
+        "ANDROID_LABEL": "Contexto",
+        "ANDROID_PREAMBLE": "A partir de septiembre de 2026, Google exigirá que cada app de Android sea registrada por un desarrollador verificado. Esta verificación requiere pagar una tarifa, entregar un documento de identidad gubernamental, proporcionar evidencia de claves privadas de firma y listar todas las aplicaciones. Esto no es una medida de seguridad — es un cierre del ecosistema abierto que ha definido a Android desde el inicio.",
+        "ANDROID_CARD_TEXT": "En Privon Foundation, creemos que el derecho de instalar software en un dispositivo que compraste es fundamental. Nos comprometemos a luchar contra esta medida y hacer que la voz de la comunidad se escuche. No nos quedaremos de brazos cruzados mientras una corporación cierra una plataforma construida sobre la promesa de libertad.",
+        "ANDROID_ARTICLES": [
+          {
+            "id": "STEP 01",
+            "title": "Instala F-Droid",
+            "desc": "Las alternativas solo sobreviven si la gente las usa. Instala F-Droid en cada dispositivo Android que poseas.",
+            "pilar": "Acción",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 02",
+            "title": "Firma la Petición",
+            "desc": "Más de 100.000 firmantes ya se han unido. Haz que tu voz se escuche en change.org y detén este movimiento.",
+            "pilar": "Acción",
+            "status": "Essential"
+          },
+          {
+            "id": "STEP 03",
+            "title": "Difunde el Mensaje",
+            "desc": "Enlaza keepandroidopen.org en todas partes. No dejes que otros establezcan la narrativa. Cada persona informada cuenta.",
+            "pilar": "Comunidad",
+            "status": "Ongoing"
+          },
+          {
+            "id": "STEP 04",
+            "title": "Contacta a los Reguladores",
+            "desc": "Los reguladores en todo el mundo están preocupados por los monopolios y la centralización. Quieren escuchar directamente de las personas afectadas.",
+            "pilar": "Comunidad",
+            "status": "Ongoing"
+          }
+        ],
+        "ANDROID_LINKS": [
+          {
+            "label": "Keep Android Open",
+            "url": "https://keepandroidopen.org"
+          },
+          {
+            "label": "Carta Abierta (F-Droid)",
+            "url": "https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html"
+          },
+          {
+            "label": "Petición Change.org",
+            "url": "https://www.change.org/p/stop-google-from-limiting-apk-file-usage/"
+          }
+        ]
+      }
+    },
+    "PROTOCOL_ARTICLES": {
+      "ro": [
+        {
+          "id": "ART 00",
+          "title": "Monetizare Etică",
+          "desc": "Monetizarea datelor personale este strict interzisă. Modelele de business trebuie decuplate de supraveghere.",
+          "pilar": "Etică",
+          "status": "Core Logic"
+        },
+        {
+          "id": "ART 01",
+          "title": "Privacy by Design",
+          "desc": "Confidențialitatea este integrată în arhitectura fundamentală pentru a minimiza colectarea datelor de la zero.",
+          "pilar": "Arhitectură",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 02",
+          "title": "Security by Default",
+          "desc": "Cele mai înalte setări de securitate sunt activate implicit. Siguranța este starea standard.",
+          "pilar": "Arhitectură",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 03",
+          "title": "Zero Trust",
+          "desc": "Niciodată nu ai încredere, întotdeauna verifici. Accesul este acordat granular și validat continuu.",
+          "pilar": "Arhitectură",
+          "status": "Activ"
+        },
+        {
+          "id": "ART 04",
+          "title": "Zero Knowledge",
+          "desc": "E2EE este obligatoriu. Furnizorii trebuie să fie structural incapabili să citească conținutul oamenilor.",
+          "pilar": "Suveranitate",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 05",
+          "title": "Zero Date Personale",
+          "desc": "Fără date PII stocate dincolo de funcționalitatea absolută. Sistemele nu pot profila oamenii.",
+          "pilar": "Suveranitate",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 06",
+          "title": "Zero Jurnale de Activitate",
+          "desc": "Fără log-uri de activitate, adrese IP sau metadate folosite pentru a urmări comportamentul.",
+          "pilar": "Suveranitate",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 07",
+          "title": "Open Source",
+          "desc": "Transparența înseamnă încredere. Tot codul trebuie să fie deschis pentru audit public.",
+          "pilar": "Integritate",
+          "status": "Public Audit"
+        },
+        {
+          "id": "ART 08",
+          "title": "Privilegiu Minim",
+          "desc": "Sunt solicitate doar permisiunile esențiale. Fără posibilitatea de abuz prin acces nenecesar.",
+          "pilar": "Integritate",
+          "status": "Active"
+        }
+      ],
+      "en": [
+        {
+          "id": "ART 00",
+          "title": "Ethical Monetization",
+          "desc": "The monetization of personal data is strictly forbidden. Business models must be decoupled from surveillance.",
+          "pilar": "Ethics",
+          "status": "Core Logic"
+        },
+        {
+          "id": "ART 01",
+          "title": "Privacy by Design",
+          "desc": "Privacy integrated into the fundamental architecture to minimize data collection from ground zero.",
+          "pilar": "Architecture",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 02",
+          "title": "Security by Default",
+          "desc": "Highest security settings enabled by default. Safety is the standard state, not a user option.",
+          "pilar": "Architecture",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 03",
+          "title": "Zero Trust",
+          "desc": "Never trust, always verify. Access is granted granularly and continuously validated.",
+          "pilar": "Architecture",
+          "status": "Active"
+        },
+        {
+          "id": "ART 04",
+          "title": "Zero Knowledge",
+          "desc": "E2EE is mandatory. Service providers must be structurally unable to read person-generated content.",
+          "pilar": "Sovereignty",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 05",
+          "title": "Zero Personal Data",
+          "desc": "No PII stored beyond absolute functionality. Systems cannot possess info that profiles people.",
+          "pilar": "Sovereignty",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 06",
+          "title": "Zero Activity Logs",
+          "desc": "No logs of activity, IP addresses, or metadata used to track behavior or session times.",
+          "pilar": "Sovereignty",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 07",
+          "title": "Open Source",
+          "desc": "Transparency is trust. All code must be open for public audit and global community validation.",
+          "pilar": "Integrity",
+          "status": "Public Audit"
+        },
+        {
+          "id": "ART 08",
+          "title": "Least Privilege",
+          "desc": "Only essential permissions requested. No possibility of abuse through unnecessary access.",
+          "pilar": "Integrity",
+          "status": "Active"
+        }
+      ],
+      "es": [
+        {
+          "id": "ART 00",
+          "title": "Monetización Ética",
+          "desc": "La monetización de datos personales está estrictamente prohibida. Los modelos de negocio deben estar desacoplados de la vigilancia.",
+          "pilar": "Ética",
+          "status": "Core Logic"
+        },
+        {
+          "id": "ART 01",
+          "title": "Privacy by Design",
+          "desc": "La privacidad integrada en la arquitectura fundamental para minimizar la recolección de datos desde cero.",
+          "pilar": "Arquitectura",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 02",
+          "title": "Security by Default",
+          "desc": "Las configuraciones de seguridad más altas están activadas por defecto. La seguridad es el estado estándar.",
+          "pilar": "Arquitectura",
+          "status": "Mandatory"
+        },
+        {
+          "id": "ART 03",
+          "title": "Zero Trust",
+          "desc": "Nunca confíes, siempre verifica. El acceso se otorga de forma granular y se valida continuamente.",
+          "pilar": "Arquitectura",
+          "status": "Active"
+        },
+        {
+          "id": "ART 04",
+          "title": "Zero Knowledge",
+          "desc": "E2EE es obligatorio. Los proveedores deben ser estructuralmente incapaces de leer el contenido de las personas.",
+          "pilar": "Soberanía",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 05",
+          "title": "Cero Datos Personales",
+          "desc": "No se almacenan datos PII más allá de la funcionalidad absoluta. Los sistemas no pueden perfilar a las personas.",
+          "pilar": "Soberanía",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 06",
+          "title": "Cero Registros de Actividad",
+          "desc": "Sin registros de actividad, direcciones IP o metadatos utilizados para rastrear el comportamiento.",
+          "pilar": "Soberanía",
+          "status": "Enforced"
+        },
+        {
+          "id": "ART 07",
+          "title": "Open Source",
+          "desc": "La transparencia es confianza. Todo el código debe estar abierto para auditoría pública.",
+          "pilar": "Integridad",
+          "status": "Public Audit"
+        },
+        {
+          "id": "ART 08",
+          "title": "Privilegio Mínimo",
+          "desc": "Solo se solicitan los permisos esenciales. Sin posibilidad de abuso por acceso innecesario.",
+          "pilar": "Integridad",
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "about": {
+    "ABOUT": {
+      "ro": {
+        "founderTitle": "FONDATOR",
+        "founderName": "WTSHEX — 18 ani, România",
+        "founderStory": "Am început Privon Foundation de pe telefon. Nu aveam laptop, nu aveam echipă, nu aveam funding. Aveam doar o frustrare: giganții tehnologici ne tratează ca produse, nu ca oameni.\n\nSunt autodidact în:\n    • Cybersecurity\n    • Digital design\n    • Privacy\n    • Artificial intelligence (ca tool de dezvoltare)\n\nViziunea mea:\n    Să fac intimitatea standard. Nu opțional, nu premium, nu \"pentru cei care au bani\". Standard.\n    Să scriu standarde, nu doar să le respect.\n    Să construiesc unelte care protejează oameni, nu să monetizeze oameni.\n    Să demonstrez că un singur om, la 18 ani, cu un telefon, poate construi alternativa la industrii de miliarde.\n\nDe ce Privon Foundation:\n    Pentru că \"security\" nu e ascundere — e demnitatea de a exista fără a fi urmărit, profilat, vândut.\n    Pentru că securitatea nu e un lux — e un drept.\n    Pentru că libertatea digitală e libertate reală.",
+        "heroTag": "Prezentare Generală",
+        "heroTitle": "Oameni.\nNu Utilizatori.",
+        "heroSub": "Privon Foundation — construim pentru libertatea digitală",
+        "whoWeAre": "Cine Suntem",
+        "whoDesc": "Suntem Privon Foundation. Nu suntem încă înregistrați oficial, dar operăm pe principii nonprofit — și suntem 100% transparenți în privința asta. Punem Omul pe primul loc, înaintea profitului. Avem principii și valori și credem că libertatea, securitatea, anonimatul, intimitatea, personalizarea și transparența sunt factori esențiali.\n\nPlanificăm să ne înregistrăm oficial în sistemul juridic din Elveția, pentru a oferi un cadru legal solid și transparent.\n\nFilozofia noastră: vedem persoana din spatele ecranului. Pentru noi nu există utilizatori — credem că securitatea nu ar trebui să fie niciodată un lux, ci o funcționalitate necesară în orice software.\n\nSuntem aici ca să facem intimitatea standard. Iubim transparența, așa că toate proiectele noastre sunt cu cod deschis.",
+        "whyTitle": "De Ce Am Început",
+        "whyDesc": "Am început printr-o frustrare că giganții mari precum Google, Microsoft și alții domină piața globală. Ne-am născut să oferim o alternativă etică care pune Omul pe primul loc, cu accent pe comunitate și nu pe profit.\n\nPentru că ne pasionează aceleași lucruri: securitatea, intimitatea, personalizarea, etica și binele comun. Făcut de oameni pentru oameni.",
+        "verifyTitle": "Nu Ne Crede Pe Cuvânt",
+        "verifyDesc": "Totul este transparent. Open source. Puteți verifica singuri că tot ce facem este adevărat. Tocmai de aceea am dezvoltat Protocol-3305 — ca niciodată să nu ne abandonăm principiile.",
+        "protocolLabel": "Protocol 3305",
+        "protocolNote": "Un Pact Pentru Demnitate",
+        "values": [
+          "Demnitate",
+          "Libertate",
+          "Confidențialitate",
+          "Transparență",
+          "Respect",
+          "Încredere"
+        ],
+        "stats": [
+          {
+            "nr": "09",
+            "label": "Articole"
+          },
+          {
+            "nr": "03",
+            "label": "Proiecte Live"
+          },
+          {
+            "nr": "52",
+            "label": "Limbi"
+          },
+          {
+            "nr": "100%",
+            "label": "Open Source"
+          }
+        ],
+        "articles": [
+          {
+            "id": "ART 00",
+            "title": "Monetizare Etică",
+            "desc": "Monetizarea datelor personale este strict interzisă.",
+            "pilar": "Etică"
+          },
+          {
+            "id": "ART 01",
+            "title": "Privacy by Design",
+            "desc": "Confidențialitatea integrată în arhitectura fundamentală.",
+            "pilar": "Arhitectură"
+          },
+          {
+            "id": "ART 02",
+            "title": "Security by Default",
+            "desc": "Cele mai înalte setări de securitate activate implicit.",
+            "pilar": "Arhitectură"
+          },
+          {
+            "id": "ART 03",
+            "title": "Zero Trust",
+            "desc": "Niciodată nu ai încredere, întotdeauna verifici.",
+            "pilar": "Arhitectură"
+          },
+          {
+            "id": "ART 04",
+            "title": "Zero Knowledge",
+            "desc": "E2EE obligatoriu. Furnizorii nu pot citi conținutul.",
+            "pilar": "Suveranitate"
+          },
+          {
+            "id": "ART 05",
+            "title": "Zero Date Personale",
+            "desc": "Fără date PII stocate dincolo de funcționalitate.",
+            "pilar": "Suveranitate"
+          },
+          {
+            "id": "ART 06",
+            "title": "Zero Jurnale",
+            "desc": "Fără log-uri, adrese IP sau metadate.",
+            "pilar": "Suveranitate"
+          },
+          {
+            "id": "ART 07",
+            "title": "Open Source",
+            "desc": "Tot codul deschis pentru audit public.",
+            "pilar": "Integritate"
+          },
+          {
+            "id": "ART 08",
+            "title": "Privilegiu Minim",
+            "desc": "Doar permisiunile esențiale.",
+            "pilar": "Integritate"
+          }
+        ]
+      },
+      "en": {
+        "founderTitle": "FOUNDER",
+        "founderName": "WTSHEX — 18 years old, Romania",
+        "founderStory": "I started Privon Foundation from my phone. I had no laptop, no team, no funding. I only had one frustration: tech giants treat us like products, not people.\n\nI am self-taught in:\n    • Cybersecurity\n    • Digital design\n    • Privacy\n    • Artificial intelligence (as a development tool)\n\nMy vision:\n    To make privacy the standard. Not optional, not premium, not \"for those who can afford it.\" Standard.\n    To write standards, not just follow them.\n    To build tools that protect people, not monetize people.\n    To prove that one person, at 18, with a phone, can build the alternative to billion-dollar industries.\n\nWhy Privon Foundation:\n    Because \"security\" is not hiding — it is the dignity of existing without being tracked, profiled, sold.\n    Because security is not a luxury — it is a right.\n    Because digital freedom is real freedom.",
+        "heroTag": "Overview",
+        "heroTitle": "People.\nNot Users.",
+        "heroSub": "Privon Foundation — engineering for digital freedom",
+        "whoWeAre": "Who We Are",
+        "whoDesc": "We are Privon Foundation. We are not yet officially registered, but we operate on nonprofit principles — and we are 100% transparent about it. We put the Human first, before profit. We have principles and values, and we believe that freedom, security, anonymity, privacy, personalization, and transparency are essential factors.\n\nWe plan to officially register under Swiss jurisdiction, to provide a solid and transparent legal framework.\n\nOur philosophy: we see the person behind the screen. For us, there are no users — we believe security should never be a luxury, but a necessary feature in any software.\n\nWe are here to make privacy the standard. We love transparency, so all our projects are open source.",
+        "whyTitle": "Why We Started",
+        "whyDesc": "We started out of frustration that big giants like Google, Microsoft and others dominate the global market. We were born to offer an ethical alternative that puts people first, with emphasis on community over profit.\n\nBecause we are passionate about the same things: security, privacy, personalization, ethics and the common good. Made by people for people.",
+        "verifyTitle": "Don't Take Our Word For It",
+        "verifyDesc": "Everything is transparent. Open source. You can verify for yourself that everything we do is true. That's exactly why we developed Protocol-3305 — to never abandon our principles.",
+        "protocolLabel": "Protocol 3305",
+        "protocolNote": "A Pact For Dignity",
+        "values": [
+          "Dignity",
+          "Freedom",
+          "Privacy",
+          "Transparency",
+          "Respect",
+          "Trust"
+        ],
+        "stats": [
+          {
+            "nr": "09",
+            "label": "Articles"
+          },
+          {
+            "nr": "03",
+            "label": "Live Projects"
+          },
+          {
+            "nr": "52",
+            "label": "Languages"
+          },
+          {
+            "nr": "100%",
+            "label": "Open Source"
+          }
+        ],
+        "articles": [
+          {
+            "id": "ART 00",
+            "title": "Ethical Monetization",
+            "desc": "Monetization of personal data is strictly forbidden.",
+            "pilar": "Ethics"
+          },
+          {
+            "id": "ART 01",
+            "title": "Privacy by Design",
+            "desc": "Privacy integrated into the fundamental architecture.",
+            "pilar": "Architecture"
+          },
+          {
+            "id": "ART 02",
+            "title": "Security by Default",
+            "desc": "Highest security settings enabled by default.",
+            "pilar": "Architecture"
+          },
+          {
+            "id": "ART 03",
+            "title": "Zero Trust",
+            "desc": "Never trust, always verify.",
+            "pilar": "Architecture"
+          },
+          {
+            "id": "ART 04",
+            "title": "Zero Knowledge",
+            "desc": "E2EE is mandatory. Providers cannot read content.",
+            "pilar": "Sovereignty"
+          },
+          {
+            "id": "ART 05",
+            "title": "Zero Personal Data",
+            "desc": "No PII stored beyond absolute functionality.",
+            "pilar": "Sovereignty"
+          },
+          {
+            "id": "ART 06",
+            "title": "Zero Logs",
+            "desc": "No logs, IP addresses or metadata.",
+            "pilar": "Sovereignty"
+          },
+          {
+            "id": "ART 07",
+            "title": "Open Source",
+            "desc": "All code open for public audit.",
+            "pilar": "Integrity"
+          },
+          {
+            "id": "ART 08",
+            "title": "Least Privilege",
+            "desc": "Only essential permissions requested.",
+            "pilar": "Integrity"
+          }
+        ]
+      },
+      "es": {
+        "founderTitle": "FUNDADOR",
+        "founderName": "WTSHEX — 18 años, Rumania",
+        "founderStory": "Empecé Privon Foundation desde mi teléfono. No tenía laptop, no tenía equipo, no tenía financiación. Solo tenía una frustración: los gigantes tecnológicos nos tratan como productos, no como personas.\n\nSoy autodidacta en:\n    • Cybersecurity\n    • Digital design\n    • Privacy\n    • Artificial intelligence (como herramienta de desarrollo)\n\nMi visión:\n    Hacer de la privacidad el estándar. No opcional, no premium, no \"para los que pueden pagarlo\". Estándar.\n    Escribir estándares, no solo seguirlos.\n    Construir herramientas que protejan a las personas, no que mercantilicen a las personas.\n    Demostrar que una sola persona, a los 18 años, con un teléfono, puede construir la alternativa a industrias de miles de millones.\n\nPor qué Privon Foundation:\n    Porque \"security\" no es ocultarse — es la dignidad de existir sin ser rastreado, perfilado, vendido.\n    Porque la seguridad no es un lujo — es un derecho.\n    Porque la libertad digital es libertad real.",
+        "heroTag": "Descripción General",
+        "heroTitle": "Personas.\nNo Usuarios.",
+        "heroSub": "Privon Foundation — construyendo para la libertad digital",
+        "whoWeAre": "Quiénes Somos",
+        "whoDesc": "Somos Privon Foundation. Aún no estamos registrados oficialmente, pero operamos bajo principios sin fines de lucro — y somos 100% transparentes al respecto. Ponemos a las personas en primer lugar, antes que el beneficio. Tenemos principios y valores, y creemos que la libertad, la seguridad, el anonimato, la privacidad, la personalización y la transparencia son factores esenciales.\n\nPlaneamos registrarnos oficialmente bajo la jurisdicción suiza, para proporcionar un marco legal sólido y transparente.\n\nNuestra filosofía: vemos a la persona detrás de la pantalla. Para nosotros no existen usuarios — creemos que la seguridad nunca debería ser un lujo, sino una funcionalidad necesaria en cualquier software.\n\nEstamos aquí para hacer de la privacidad un estándar. Amamos la transparencia, así que todos nuestros proyectos son de código abierto.",
+        "whyTitle": "Por Qué Empezamos",
+        "whyDesc": "Empezamos por la frustración de que grandes gigantes como Google, Microsoft y otros dominan el mercado global. Nacimos para ofrecer una alternativa ética que pone a las personas primero, con énfasis en la comunidad.\n\nPorque nos apasionan las mismas cosas: la seguridad, la privacidad, la personalización, la ética y el bien común. Hecho por personas para personas.",
+        "verifyTitle": "No Nos Creas Bajo Palabra",
+        "verifyDesc": "Todo es transparente. Open source. Puedes verificar por ti mismo que todo lo que hacemos es verdad. Precisamente por eso desarrollamos Protocol-3305 — para nunca abandonar nuestros principios.",
+        "protocolLabel": "Protocolo 3305",
+        "protocolNote": "Un Pacto Por La Dignidad",
+        "values": [
+          "Dignidad",
+          "Libertad",
+          "Privacidad",
+          "Transparencia",
+          "Respeto",
+          "Confianza"
+        ],
+        "stats": [
+          {
+            "nr": "09",
+            "label": "Artículos"
+          },
+          {
+            "nr": "03",
+            "label": "Proyectos"
+          },
+          {
+            "nr": "52",
+            "label": "Idiomas"
+          },
+          {
+            "nr": "100%",
+            "label": "Open Source"
+          }
+        ],
+        "articles": [
+          {
+            "id": "ART 00",
+            "title": "Monetización Ética",
+            "desc": "Monetización de datos personales estrictamente prohibida.",
+            "pilar": "Ética"
+          },
+          {
+            "id": "ART 01",
+            "title": "Privacy by Design",
+            "desc": "Privacidad integrada en la arquitectura fundamental.",
+            "pilar": "Arquitectura"
+          },
+          {
+            "id": "ART 02",
+            "title": "Security by Default",
+            "desc": "Seguridad máxima activada por defecto.",
+            "pilar": "Arquitectura"
+          },
+          {
+            "id": "ART 03",
+            "title": "Zero Trust",
+            "desc": "Nunca confíes, siempre verifica.",
+            "pilar": "Arquitectura"
+          },
+          {
+            "id": "ART 04",
+            "title": "Zero Knowledge",
+            "desc": "E2EE obligatorio. Proveedores no pueden leer contenido.",
+            "pilar": "Soberanía"
+          },
+          {
+            "id": "ART 05",
+            "title": "Cero Datos",
+            "desc": "Sin datos PII almacenados.",
+            "pilar": "Soberanía"
+          },
+          {
+            "id": "ART 06",
+            "title": "Cero Registros",
+            "desc": "Sin logs, IPs ni metadatos.",
+            "pilar": "Soberanía"
+          },
+          {
+            "id": "ART 07",
+            "title": "Open Source",
+            "desc": "Código abierto para auditoría pública.",
+            "pilar": "Integridad"
+          },
+          {
+            "id": "ART 08",
+            "title": "Privilegio Mínimo",
+            "desc": "Solo permisos esenciales.",
+            "pilar": "Integridad"
+          }
+        ]
+      }
+    }
+  },
+  "community": {
+    "COMMUNITY": {
+      "ro": {
+        "heroTitle": "Comunitatea\nPrivon",
+        "heroSub": "Construim un ecosistem digital liber. Fiecare voce contează.",
+        "protoLabel": "Rețele Federale",
+        "protoDesc": "Folosim doar platforme federale și open-source. Fără lock-in, fără algoritmi care te manipulează. Datele și conversațiile tale rămân ale tale.",
+        "networks": [
+          {
+            "name": "Matrix",
+            "handle": "@privon:matrix.org",
+            "url": "https://matrix.to/#/#privon:matrix.org",
+            "desc": "Chat criptat end-to-end. Discuții tehnice, suport, comunitate.",
+            "protocol": "Protocol: Matrix / Olm-Megolm"
+          },
+          {
+            "name": "Mastodon",
+            "handle": "@PrivonFoundation",
+            "url": "https://mastodon.social/@PrivonFoundation",
+            "desc": "Microblogging federat. Anunțuri, gânduri, actualizări.",
+            "protocol": "Protocol: ActivityPub"
+          },
+          {
+            "name": "Pixelfed",
+            "handle": "@PrivonFoundation",
+            "url": "https://pixelfed.social/i/web/profile/PrivonFoundation",
+            "desc": "Galerie foto federată, fără algoritmi, fără reclame.",
+            "protocol": "Protocol: ActivityPub"
+          },
+          {
+            "name": "Lemmy",
+            "handle": "c/privon",
+            "url": "https://lemmy.world/c/privon",
+            "desc": "Agregator de link-uri și discuții federat. Alternativa la Reddit.",
+            "protocol": "Protocol: ActivityPub"
+          }
+        ],
+        "githubTitle": "GitHub",
+        "githubDesc": "Tot codul e deschis. Contribuie, auditează, fork-uiește. Transparența e fundamentul nostru.",
+        "githubUrl": "https://github.com/Privonfundation",
+        "discussionsTitle": "Discuții GitHub",
+        "discussionsDesc": "Propune funcționalități, raportează probleme, discută cu comunitatea. Totul e deschis.",
+        "discussionsUrl": "https://github.com/Privonfundation/CrytoTool/discussions"
+      },
+      "en": {
+        "heroTitle": "Privon\nCommunity",
+        "heroSub": "Building a free digital ecosystem. Every voice matters.",
+        "protoLabel": "Federated Networks",
+        "protoDesc": "We use only federated and open-source platforms. No lock-in, no algorithms that manipulate you. Your data and conversations remain yours.",
+        "networks": [
+          {
+            "name": "Matrix",
+            "handle": "@privon:matrix.org",
+            "url": "https://matrix.to/#/#privon:matrix.org",
+            "desc": "End-to-end encrypted chat. Technical discussions, support, community.",
+            "protocol": "Protocol: Matrix / Olm-Megolm"
+          },
+          {
+            "name": "Mastodon",
+            "handle": "@PrivonFoundation",
+            "url": "https://mastodon.social/@PrivonFoundation",
+            "desc": "Federated microblogging. Announcements, thoughts, updates.",
+            "protocol": "Protocol: ActivityPub"
+          },
+          {
+            "name": "Pixelfed",
+            "handle": "@PrivonFoundation",
+            "url": "https://pixelfed.social/i/web/profile/PrivonFoundation",
+            "desc": "Federated photo gallery. No algorithms, no ads.",
+            "protocol": "Protocol: ActivityPub"
+          },
+          {
+            "name": "Lemmy",
+            "handle": "c/privon",
+            "url": "https://lemmy.world/c/privon",
+            "desc": "Federated link aggregator and discussions. Reddit alternative.",
+            "protocol": "Protocol: ActivityPub"
+          }
+        ],
+        "githubTitle": "GitHub",
+        "githubDesc": "All code is open. Contribute, audit, fork. Transparency is our foundation.",
+        "githubUrl": "https://github.com/Privonfundation",
+        "discussionsTitle": "GitHub Discussions",
+        "discussionsDesc": "Request features, report issues, discuss with the community. Everything is open.",
+        "discussionsUrl": "https://github.com/Privonfundation/CrytoTool/discussions"
+      },
+      "es": {
+        "heroTitle": "Comunidad\nPrivon",
+        "heroSub": "Construyendo un ecosistema digital libre. Cada voz importa.",
+        "protoLabel": "Redes Federales",
+        "protoDesc": "Usamos solo plataformas federales y de código abierto. Sin bloqueo, sin algoritmos que te manipulen. Tus datos y conversaciones siguen siendo tuyos.",
+        "networks": [
+          {
+            "name": "Matrix",
+            "handle": "@privon:matrix.org",
+            "url": "https://matrix.to/#/#privon:matrix.org",
+            "desc": "Chat cifrado de extremo a extremo. Discusiones técnicas, soporte, comunidad.",
+            "protocol": "Protocolo: Matrix / Olm-Megolm"
+          },
+          {
+            "name": "Mastodon",
+            "handle": "@PrivonFoundation",
+            "url": "https://mastodon.social/@PrivonFoundation",
+            "desc": "Microblogging federado. Anuncios, pensamientos, actualizaciones.",
+            "protocol": "Protocolo: ActivityPub"
+          },
+          {
+            "name": "Pixelfed",
+            "handle": "@PrivonFoundation",
+            "url": "https://pixelfed.social/i/web/profile/PrivonFoundation",
+            "desc": "Galería de fotos federada. Sin algoritmos, sin anuncios.",
+            "protocol": "Protocolo: ActivityPub"
+          },
+          {
+            "name": "Lemmy",
+            "handle": "c/privon",
+            "url": "https://lemmy.world/c/privon",
+            "desc": "Agregador de enlaces y discusiones federado. Alternativa a Reddit.",
+            "protocol": "Protocolo: ActivityPub"
+          }
+        ],
+        "githubTitle": "GitHub",
+        "githubDesc": "Todo el código es abierto. Contribuye, audita, haz fork. La transparencia es nuestro fundamento.",
+        "githubUrl": "https://github.com/Privonfundation",
+        "discussionsTitle": "Discusiones GitHub",
+        "discussionsDesc": "Solicita funciones, reporta problemas, discute con la comunidad. Todo es abierto.",
+        "discussionsUrl": "https://github.com/Privonfundation/CrytoTool/discussions"
+      }
+    }
+  },
+  "contributions": {
+    "CONTRIBUTIONS": {
+      "ro": {
+        "heroTitle": "Construim\nÎmpreună",
+        "heroSub": "Fiecare contribuție contează. Audit, cod, design, traduceri — orice skill contează.",
+        "projectsTitle": "Proiecte Active",
+        "projects": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Seif Digital",
+            "logoImage": "/CrytoTool.png",
+            "desc": "All-in-One Privacy, manager de fișiere cu criptare client-side, galerie, player muzical și vizualizator de documente.",
+            "status": "Activ",
+            "statusColor": "bg-green-500/20 text-green-300 border-green-500/30",
+            "needs": "Audit securitate, testare, traduceri, documentație"
+          }
+        ],
+        "areasTitle": "Domenii de Contribuție",
+        "areas": [
+          {
+            "title": "Security Audit",
+            "desc": "Analiză cod, identificare vulnerabilități, propuneri de remediere."
+          },
+          {
+            "title": "Development",
+            "desc": "Implementare funcționalități, optimizări, arhitectură."
+          },
+          {
+            "title": "Design & UI/UX",
+            "desc": "Îmbunătățiri vizuale, iconițe, layout, experiență utilizator."
+          },
+          {
+            "title": "Translations",
+            "desc": "Aducerea aplicațiilor în cât mai multe limbi."
+          },
+          {
+            "title": "Documentation",
+            "desc": "Ghiduri, wiki, tutoriale pentru comunitate."
+          },
+          {
+            "title": "Testing & QA",
+            "desc": "Testare, raportare bug-uri, sugestii de îmbunătățire."
+          },
+          {
+            "title": "Ideas & Feedback",
+            "desc": "Propune funcționalități noi, împărtășește-ți perspectiva."
+          },
+          {
+            "title": "Community",
+            "desc": "Ajută pe Matrix, răspunde la întrebări, crește comunitatea."
+          }
+        ],
+        "ctaTitle": "Ready to Build?",
+        "ctaDesc": "Tot codul e pe GitHub. Dă fork, deschide un PR. Sau vino pe Matrix și spune-ne de unde vrei să începi."
+      },
+      "en": {
+        "heroTitle": "Build\nTogether",
+        "heroSub": "Every contribution matters. Audit, code, design, translations — any skill counts.",
+        "projectsTitle": "Active Projects",
+        "projects": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Digital Vault",
+            "logoImage": "/CrytoTool.png",
+            "desc": "All-in-One Privacy, client-side encryption file manager, gallery, music player, and document viewer.",
+            "status": "Active",
+            "statusColor": "bg-green-500/20 text-green-300 border-green-500/30",
+            "needs": "Security audit, testing, translations, documentation"
+          }
+        ],
+        "areasTitle": "Contribution Areas",
+        "areas": [
+          {
+            "title": "Security Audit",
+            "desc": "Code review, vulnerability identification, remediation proposals."
+          },
+          {
+            "title": "Development",
+            "desc": "Feature implementation, optimization, architecture."
+          },
+          {
+            "title": "Design & UI/UX",
+            "desc": "Visual improvements, icons, layout, user experience."
+          },
+          {
+            "title": "Translations",
+            "desc": "Bringing applications to as many languages as possible."
+          },
+          {
+            "title": "Documentation",
+            "desc": "Guides, wiki, tutorials for the community."
+          },
+          {
+            "title": "Testing & QA",
+            "desc": "Testing, bug reporting, improvement suggestions."
+          },
+          {
+            "title": "Ideas & Feedback",
+            "desc": "Propose new features, share your perspective."
+          },
+          {
+            "title": "Community",
+            "desc": "Help on Matrix, answer questions, grow the community."
+          }
+        ],
+        "ctaTitle": "Ready to Build?",
+        "ctaDesc": "All code is on GitHub. Fork it, open a PR. Or join Matrix and tell us where you want to start."
+      },
+      "es": {
+        "heroTitle": "Construimos\nJuntos",
+        "heroSub": "Cada contribución importa. Auditoría, código, diseño, traducciones — cualquier habilidad cuenta.",
+        "projectsTitle": "Proyectos Activos",
+        "projects": [
+          {
+            "id": "01",
+            "title": "CrytoTool",
+            "tagline": "Bóveda Digital",
+            "logoImage": "/CrytoTool.png",
+            "desc": "All-in-One Privacy, administrador de archivos con cifrado client-side, galería, reproductor de música y visor de documentos.",
+            "status": "Activo",
+            "statusColor": "bg-green-500/20 text-green-300 border-green-500/30",
+            "needs": "Auditoría de seguridad, pruebas, traducciones, documentación"
+          }
+        ],
+        "areasTitle": "Áreas de Contribución",
+        "areas": [
+          {
+            "title": "Security Audit",
+            "desc": "Revisión de código, identificación de vulnerabilidades, propuestas de remediación."
+          },
+          {
+            "title": "Development",
+            "desc": "Implementación de funciones, optimización, arquitectura."
+          },
+          {
+            "title": "Design & UI/UX",
+            "desc": "Mejoras visuales, iconos, diseño, experiencia de usuario."
+          },
+          {
+            "title": "Translations",
+            "desc": "Llevar las aplicaciones a tantos idiomas como sea posible."
+          },
+          {
+            "title": "Documentation",
+            "desc": "Guías, wiki, tutoriales para la comunidad."
+          },
+          {
+            "title": "Testing & QA",
+            "desc": "Pruebas, reporte de errores, sugerencias de mejora."
+          },
+          {
+            "title": "Ideas & Feedback",
+            "desc": "Propón nuevas funciones, comparte tu perspectiva."
+          },
+          {
+            "title": "Community",
+            "desc": "Ayuda en Matrix, responde preguntas, haz crecer la comunidad."
+          }
+        ],
+        "ctaTitle": "Ready to Build?",
+        "ctaDesc": "Todo el código está en GitHub. Haz fork, abre un PR. O únete a Matrix y dinos por dónde quieres empezar."
+      }
+    }
+  },
+  "crytotool": {
+    "LANG": {
+      "ro": {
+        "navProjects": "Proiecte",
+        "navCommunity": "Comunitate",
+        "heroTitle": "CrytoTool",
+        "heroTag": "Seif Digital All-in-One",
+        "heroDesc": "CrytoTool respectă oamenii din spatele ecranului. Este un manager de fișiere, galerie, player muzical și vizualizator de documente — totul criptat client-side, fără urmărire, fără reclame, fără colectare de date.",
+        "featuresLabel": "Funcționalități",
+        "categories": [
+          {
+            "icon": "fa-shield-halved",
+            "title": "Security",
+            "items": [
+              {
+                "title": "Parolă Principală (30+ caractere)",
+                "desc": "Minim 30 de caractere pentru o securitate maximă, forțează parole puternice din start"
+              },
+              {
+                "title": "Blocare Progresivă",
+                "desc": "După 3 încercări greșite, timpul de așteptare crește exponențial — descurajează forța brută"
+              },
+              {
+                "title": "Parolă separată pentru Setări",
+                "desc": "Protejează configurația sensibilă cu o parolă diferită de cea principală"
+              },
+              {
+                "title": "Auto-Distrugere",
+                "desc": "La un număr configurat de încercări eșuate, vault-ul se șterge automat ireversibil"
+              },
+              {
+                "title": "Blocare Automată + Blur",
+                "desc": "Ecranul se blurează și se blochează automat după inactivitate prelungită"
+              },
+              {
+                "title": "Cheie unică per fișier",
+                "desc": "Fiecare fișier și folder primește o cheie de criptare unică, independentă"
+              },
+              {
+                "title": "Blacklist PIN",
+                "desc": "PIN-uri interzise configurate manual — împiedică parole evidente"
+              },
+              {
+                "title": "Cheie separată pentru Backup",
+                "desc": "Backup-urile se criptează cu o cheie diferită de vault-ul principal"
+              }
+            ]
+          },
+          {
+            "icon": "fa-rotate-left",
+            "title": "Recovery",
+            "items": [
+              {
+                "title": "10 Coduri de Recuperare",
+                "desc": "Coduri one-time imprimabile salvate offline, fiecare poate debloca vault-ul o singură dată"
+              },
+              {
+                "title": "Backup-uri complet criptate",
+                "desc": "Fișiere .enc care conțin tot vault-ul, recuperabile doar cu cheia dedicată de backup"
+              }
+            ]
+          },
+          {
+            "icon": "fa-folder-tree",
+            "title": "File Manager",
+            "items": [
+              {
+                "title": "Adaugă fișiere/foldere",
+                "desc": "Importă orice tip de fișier direct în vault, criptat automat la upload"
+              },
+              {
+                "title": "Redenumește, duplică, mută",
+                "desc": "Operații complete de organizare direct în vault fără a decripta vreodată pe disc"
+              },
+              {
+                "title": "Download și criptare",
+                "desc": "Descarcă fișiere în forma lor criptată sau decriptată, la alegere"
+              },
+              {
+                "title": "Vizualizare spațiu de stocare",
+                "desc": "Grafic și statistici detaliate despre tipurile de fișiere și memoria ocupată"
+              },
+              {
+                "title": "Căutare în toate fișierele",
+                "desc": "Caută după nume, tip, dată sau conținut în tot vault-ul, instantaneu"
+              },
+              {
+                "title": "Coș de gunoi cu restaurări",
+                "desc": "Fișierele șterse stau în coș 30 de zile înainte de eliminarea definitivă"
+              }
+            ]
+          },
+          {
+            "icon": "fa-cubes",
+            "title": "Module",
+            "items": [
+              {
+                "title": "Galerie Foto/Video",
+                "desc": "Previzualizează imagini și videouri direct din vault, cu suport pentru favorite și albume"
+              },
+              {
+                "title": "Player Muzical",
+                "desc": "Redă fișiere audio direct criptat, cu organizare pe albume, artiști și playlist-uri"
+              },
+              {
+                "title": "Vizualizator Documente",
+                "desc": "Deschide PDF, DOCX, TXT și alte formate fără a decripta pe disc, totul în memorie"
+              },
+              {
+                "title": "Seif Chei de criptare",
+                "desc": "Manager dedicat pentru chei publice/private, ideal pentru comunicare securizată"
+              },
+              {
+                "title": "Backup/Restore din .enc",
+                "desc": "Exportă și importă vault-ul complet într-un singur fișier .enc portabil"
+              },
+              {
+                "title": "Setări centralizate",
+                "desc": "Un singur loc pentru toate configurările — limbă, temă, securitate, module"
+              }
+            ]
+          },
+          {
+            "icon": "fa-palette",
+            "title": "Customizare",
+            "items": [
+              {
+                "title": "100+ Teme",
+                "desc": "De la întunecat la deschis, create manual — fiecare temă are accente cromatice unice"
+              },
+              {
+                "title": "40+ Fonturi",
+                "desc": "Monospace, sans-serif, serif — alege cum arată textul în întreaga aplicație"
+              },
+              {
+                "title": "Mod Dark / Light / System",
+                "desc": "Comută manual sau lasă sistemul să decidă automat în funcție de ora zilei"
+              },
+              {
+                "title": "Culoare accent",
+                "desc": "Selector de culoare live care modifică instant toate elementele evidențiate"
+              },
+              {
+                "title": "10+ Pachete de iconițe",
+                "desc": "Seturi complete de iconițe pentru butoane, foldere și tipuri de fișiere"
+              },
+              {
+                "title": "50+ Limbi",
+                "desc": "Interfața complet tradusă cu suport pentru limbi de la comunitate prin fișiere JSON"
+              }
+            ]
+          }
+        ],
+        "stats": [
+          {
+            "value": "52",
+            "label": "Limbi"
+          },
+          {
+            "value": "100",
+            "label": "Teme"
+          },
+          {
+            "value": "6",
+            "label": "Algoritmi de criptare"
+          },
+          {
+            "value": "4",
+            "label": "Platforme"
+          }
+        ],
+        "downloadTitle": "Disponibil pe toate platformele",
+        "downloadDesc": "Windows, Linux, macOS și Android. Aceeași experiență, aceeași confidențialitate.",
+        "downloadBtns": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "Android"
+        ],
+        "archDesc": "CrytoTool folosește o arhitectură 100% client-side cu 4 straturi de criptare:",
+        "layers": [
+          {
+            "layer": "1. Criptare Bază de Date",
+            "what": "Auto-criptează fiecare fișier în IndexedDB",
+            "key": "AES-256-GCM, chei din Parola Principală via Argon2id"
+          },
+          {
+            "layer": "2. Criptare Fișiere",
+            "what": "Criptare manuală cu 6 algoritmi",
+            "key": "AES-GCM, XChaCha20-Poly1305, ChaCha20-Poly1305, AES-CTR, Salsa20-Poly1305, AES-GCM-Stream"
+          },
+          {
+            "layer": "3. Backup Criptat",
+            "what": "Creează backup-uri securizate ale tuturor datelor",
+            "key": "Argon2id + AES-256-GCM, cheie unică de 26 caractere"
+          },
+          {
+            "layer": "4. Criptare Streaming",
+            "what": "Procesează fișiere mari pe orice dispozitiv",
+            "key": "4MB chunk-uri, AES-GCM per chunk, sigur pe dispozitive cu RAM redusă"
+          }
+        ],
+        "githubBtn": "GitHub",
+        "archTitle": "Arhitectură"
+      },
+      "en": {
+        "navProjects": "Projects",
+        "navCommunity": "Community",
+        "heroTitle": "CrytoTool",
+        "heroTag": "All-in-One Privacy",
+        "heroDesc": "CrytoTool respects the people behind the screen. It is a four-in-one, client-side encrypted file manager, gallery, music player, and document viewer where your privacy comes first: no tracking, no ads, no data collection.",
+        "featuresLabel": "Features",
+        "categories": [
+          {
+            "icon": "fa-shield-halved",
+            "title": "Security",
+            "items": [
+              {
+                "title": "Master Password (30+ chars)",
+                "desc": "Enforces a minimum of 30 characters, forcing strong passwords from the very start"
+              },
+              {
+                "title": "Progressive Lockout",
+                "desc": "After 3 failed attempts, wait time grows exponentially — deters brute force attacks"
+              },
+              {
+                "title": "Separate Settings Password",
+                "desc": "Protects sensitive configuration behind a password different from your master password"
+              },
+              {
+                "title": "Self-Destruct",
+                "desc": "At a configurable number of failed attempts, the vault permanently wipes itself"
+              },
+              {
+                "title": "Auto-Lock + Screen Blur",
+                "desc": "Screen blurs and locks automatically after extended inactivity to prevent shoulder surfing"
+              },
+              {
+                "title": "Unique Key per File",
+                "desc": "Every file and folder gets its own independent encryption key"
+              },
+              {
+                "title": "PIN Blacklist",
+                "desc": "Manually configure forbidden PINs — stops obvious passwords before they are set"
+              },
+              {
+                "title": "Separate Backup Key",
+                "desc": "Backups are encrypted with a key different from your main vault key"
+              }
+            ]
+          },
+          {
+            "icon": "fa-rotate-left",
+            "title": "Recovery",
+            "items": [
+              {
+                "title": "10 Recovery Codes",
+                "desc": "Printable one-time codes stored offline, each can unlock the vault a single time"
+              },
+              {
+                "title": "Fully Encrypted Backups",
+                "desc": ".enc files containing the entire vault, recoverable only with the dedicated backup key"
+              }
+            ]
+          },
+          {
+            "icon": "fa-folder-tree",
+            "title": "File Management",
+            "items": [
+              {
+                "title": "Add files/folders",
+                "desc": "Import any file type directly into the vault, automatically encrypted on upload"
+              },
+              {
+                "title": "Rename, duplicate, move",
+                "desc": "Full organization operations inside the vault without ever decrypting to disk"
+              },
+              {
+                "title": "Download and encrypt",
+                "desc": "Download files in encrypted or decrypted form, your choice every time"
+              },
+              {
+                "title": "Storage overview",
+                "desc": "Detailed charts and statistics about file types and storage usage across the vault"
+              },
+              {
+                "title": "Cross-folder search",
+                "desc": "Search by name, type, date or content across the entire vault, instantly"
+              },
+              {
+                "title": "Trash with restore",
+                "desc": "Deleted files stay in trash for 30 days before permanent removal"
+              }
+            ]
+          },
+          {
+            "icon": "fa-cubes",
+            "title": "Modules",
+            "items": [
+              {
+                "title": "Photo/Video Gallery",
+                "desc": "Preview images and videos directly in the vault, with favorites and album support"
+              },
+              {
+                "title": "Music Player",
+                "desc": "Play audio files while encrypted, organized by albums, artists and playlists"
+              },
+              {
+                "title": "Document Viewer",
+                "desc": "Open PDF, DOCX, TXT and more without ever decrypting to disk — all in memory"
+              },
+              {
+                "title": "Encryption Key Vault",
+                "desc": "Dedicated manager for public/private keys, ideal for secure communication"
+              },
+              {
+                "title": "Backup/Restore from .enc",
+                "desc": "Export and import the entire vault as a single portable .enc file"
+              },
+              {
+                "title": "Centralized Settings",
+                "desc": "One place for all configuration — language, theme, security, modules"
+              }
+            ]
+          },
+          {
+            "icon": "fa-palette",
+            "title": "Customization",
+            "items": [
+              {
+                "title": "100+ Themes",
+                "desc": "From dark to light, hand-crafted with unique chromatic accents in every theme"
+              },
+              {
+                "title": "40+ Fonts",
+                "desc": "Monospace, sans-serif, serif — choose how text looks across the entire application"
+              },
+              {
+                "title": "Dark / Light / System mode",
+                "desc": "Switch manually or let your system decide automatically based on time of day"
+              },
+              {
+                "title": "Custom accent color",
+                "desc": "Live color picker that instantly updates all highlighted elements across the UI"
+              },
+              {
+                "title": "10+ Icon packs",
+                "desc": "Complete icon sets for buttons, folders, and file types"
+              },
+              {
+                "title": "50+ Languages",
+                "desc": "Fully translated interface with community-driven language support via JSON files"
+              }
+            ]
+          }
+        ],
+        "stats": [
+          {
+            "value": "52",
+            "label": "Languages"
+          },
+          {
+            "value": "100",
+            "label": "Themes"
+          },
+          {
+            "value": "6",
+            "label": "Encryption algorithms"
+          },
+          {
+            "value": "4",
+            "label": "Platforms"
+          }
+        ],
+        "downloadTitle": "Available on all platforms",
+        "downloadDesc": "Windows, Linux, macOS and Android. Same experience, same privacy.",
+        "downloadBtns": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "Android"
+        ],
+        "githubBtn": "GitHub",
+        "archTitle": "Architecture",
+        "archDesc": "CrytoTool uses a 100% client-side architecture with 4 layers of encryption:",
+        "layers": [
+          {
+            "layer": "1. Database Encryption",
+            "what": "Auto-encrypts every file in IndexedDB",
+            "key": "AES-256-GCM, keys from Master Password via Argon2id"
+          },
+          {
+            "layer": "2. File & Folder Encryption",
+            "what": "Manual encryption with 6 algorithms",
+            "key": "AES-GCM, XChaCha20-Poly1305, ChaCha20-Poly1305, AES-CTR, Salsa20-Poly1305, AES-GCM-Stream"
+          },
+          {
+            "layer": "3. Encrypted Backup",
+            "what": "Creates secure backups of all data",
+            "key": "Argon2id + AES-256-GCM, unique 26-char key"
+          },
+          {
+            "layer": "4. Streaming Encryption",
+            "what": "Handles large files on any device",
+            "key": "4MB chunks, AES-GCM per chunk, safe for low-RAM devices"
+          }
+        ]
+      },
+      "es": {
+        "navProjects": "Proyectos",
+        "navCommunity": "Comunidad",
+        "heroTitle": "CrytoTool",
+        "heroTag": "Bóveda Digital All-in-One",
+        "heroDesc": "CrytoTool respeta a las personas detrás de la pantalla. Es un administrador de archivos, galería, reproductor de música y visor de documentos — todo cifrado client-side, sin rastreo, sin anuncios, sin recolección de datos.",
+        "featuresLabel": "Funcionalidades",
+        "categories": [
+          {
+            "icon": "fa-shield-halved",
+            "title": "Seguridad",
+            "items": [
+              {
+                "title": "Contraseña Maestra (30+ caracteres)",
+                "desc": "Exige mínimo 30 caracteres para forzar contraseñas fuertes desde el inicio"
+              },
+              {
+                "title": "Bloqueo Progresivo",
+                "desc": "Tras 3 intentos fallidos, la espera crece exponencialmente — disuade ataques de fuerza bruta"
+              },
+              {
+                "title": "Contraseña de Ajustes",
+                "desc": "Protege la configuración sensible con una contraseña distinta a la principal"
+              },
+              {
+                "title": "Autodestrucción",
+                "desc": "Al número configurado de intentos fallidos, la bóveda se borra irreversiblemente"
+              },
+              {
+                "title": "Bloqueo Automático + Desenfoque",
+                "desc": "La pantalla se desenfoca y bloquea automáticamente tras inactividad prolongada"
+              },
+              {
+                "title": "Clave única por archivo",
+                "desc": "Cada archivo y carpeta recibe una clave de cifrado única e independiente"
+              },
+              {
+                "title": "Lista Negra PIN",
+                "desc": "Configura PINs prohibidos manualmente — impide contraseñas obvias antes de crearlas"
+              },
+              {
+                "title": "Clave separada para Backup",
+                "desc": "Las copias de seguridad se cifran con una clave diferente a la bóveda principal"
+              }
+            ]
+          },
+          {
+            "icon": "fa-rotate-left",
+            "title": "Recuperación",
+            "items": [
+              {
+                "title": "10 Códigos de Recuperación",
+                "desc": "Códigos imprimibles de un solo uso, almacenados offline, cada uno desbloquea la bóveda una vez"
+              },
+              {
+                "title": "Copias completamente cifradas",
+                "desc": "Archivos .enc con toda la bóveda, recuperables solo con la clave de backup dedicada"
+              }
+            ]
+          },
+          {
+            "icon": "fa-folder-tree",
+            "title": "Archivos",
+            "items": [
+              {
+                "title": "Añadir archivos/carpetas",
+                "desc": "Importa cualquier tipo de archivo directo a la bóveda, cifrado automáticamente al subir"
+              },
+              {
+                "title": "Renombrar, duplicar, mover",
+                "desc": "Operaciones completas de organización dentro de la bóveda sin descifrar nunca en disco"
+              },
+              {
+                "title": "Descargar y cifrar",
+                "desc": "Descarga archivos cifrados o descifrados, tú eliges cada vez"
+              },
+              {
+                "title": "Resumen de almacenamiento",
+                "desc": "Gráficos detallados y estadísticas sobre tipos de archivo y espacio usado en la bóveda"
+              },
+              {
+                "title": "Búsqueda en todos los archivos",
+                "desc": "Busca por nombre, tipo, fecha o contenido en toda la bóveda, al instante"
+              },
+              {
+                "title": "Papelera con restauración",
+                "desc": "Archivos eliminados permanecen 30 días en la papelera antes de borrado definitivo"
+              }
+            ]
+          },
+          {
+            "icon": "fa-cubes",
+            "title": "Módulos",
+            "items": [
+              {
+                "title": "Galería Fotos/Vídeos",
+                "desc": "Previsualiza imágenes y vídeos directo en la bóveda, con favoritos y álbumes"
+              },
+              {
+                "title": "Reproductor Musical",
+                "desc": "Reproduce archivos de audio mientras están cifrados, organizado por álbumes y artistas"
+              },
+              {
+                "title": "Visor de Documentos",
+                "desc": "Abre PDF, DOCX, TXT y más sin descifrar nunca en disco — todo en memoria"
+              },
+              {
+                "title": "Caja Fuerte de Claves",
+                "desc": "Gestor dedicado para claves públicas/privadas, ideal para comunicación segura"
+              },
+              {
+                "title": "Respaldar/Restaurar desde .enc",
+                "desc": "Exporta e importa la bóveda completa como un solo archivo .enc portátil"
+              },
+              {
+                "title": "Ajustes centralizados",
+                "desc": "Un solo lugar para toda la configuración — idioma, tema, seguridad, módulos"
+              }
+            ]
+          },
+          {
+            "icon": "fa-palette",
+            "title": "Personalización",
+            "items": [
+              {
+                "title": "100+ Temas",
+                "desc": "De oscuro a claro, creados manualmente con acentos cromáticos únicos en cada tema"
+              },
+              {
+                "title": "40+ Fuentes",
+                "desc": "Monospace, sans-serif, serif — elige cómo se ve el texto en toda la aplicación"
+              },
+              {
+                "title": "Modo Oscuro / Claro / Sistema",
+                "desc": "Cambia manualmente o deja que el sistema decida según la hora del día"
+              },
+              {
+                "title": "Color de acento personalizado",
+                "desc": "Selector de color en vivo que actualiza al instante todos los elementos destacados"
+              },
+              {
+                "title": "10+ Paquetes de iconos",
+                "desc": "Juegos completos de iconos para botones, carpetas y tipos de archivo"
+              },
+              {
+                "title": "50+ Idiomas",
+                "desc": "Interfaz completamente traducida con soporte comunitario mediante archivos JSON"
+              }
+            ]
+          }
+        ],
+        "stats": [
+          {
+            "value": "52",
+            "label": "Idiomas"
+          },
+          {
+            "value": "100",
+            "label": "Temas"
+          },
+          {
+            "value": "6",
+            "label": "Algoritmos de cifrado"
+          },
+          {
+            "value": "4",
+            "label": "Plataformas"
+          }
+        ],
+        "downloadTitle": "Disponible en todas las plataformas",
+        "downloadDesc": "Windows, Linux, macOS y Android. Misma experiencia, misma privacidad.",
+        "downloadBtns": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "Android"
+        ],
+        "githubBtn": "GitHub",
+        "archTitle": "Arquitectura",
+        "archDesc": "CrytoTool usa una arquitectura 100% client-side con 4 capas de cifrado:",
+        "layers": [
+          {
+            "layer": "1. Cifrado de Base de Datos",
+            "what": "Auto-cifra cada archivo en IndexedDB",
+            "key": "AES-256-GCM, claves desde Contraseña Maestra via Argon2id"
+          },
+          {
+            "layer": "2. Cifrado de Archivos",
+            "what": "Cifrado manual con 6 algoritmos",
+            "key": "AES-GCM, XChaCha20-Poly1305, ChaCha20-Poly1305, AES-CTR, Salsa20-Poly1305, AES-GCM-Stream"
+          },
+          {
+            "layer": "3. Backup Cifrado",
+            "what": "Crea copias de seguridad cifradas de todos los datos",
+            "key": "Argon2id + AES-256-GCM, clave única de 26 caracteres"
+          },
+          {
+            "layer": "4. Cifrado Streaming",
+            "what": "Maneja archivos grandes en cualquier dispositivo",
+            "key": "Fragmentos de 4MB, AES-GCM por fragmento, seguro en dispositivos con poca RAM"
+          }
+        ]
+      }
+    }
+  },
+  "ethics": {
+    "ETHICS": {
+      "ro": {
+        "title": "Cod de Etică",
+        "lastUpdated": "Ultima actualizare: Mai 2026",
+        "intro": "Privon Foundation oferă instrumente de securitate și confidențialitate pentru a proteja oamenii, nu pentru a face rău. Acest cod de etică stabilește așteptările noastre și limitele legale.",
+        "purpose": "Scopul Acestui Cod",
+        "purposeDesc": "Acest document nu este doar o formalitate legală. Este o declarație a valorilor noastre și un avertisment clar: instrumentele noastre sunt create pentru protecție, nu pentru atac. În calitate de creatori, ne asumăm responsabilitatea pentru ceea ce construim. În calitate de om care le folosește, tu ești responsabil pentru modul în care folosești aceste instrumente.",
+        "responsibleUse": "Utilizare Responsabilă",
+        "responsibleUseDesc": "Ești de acord să NU folosești serviciile sau aplicațiile Privon Foundation pentru:\n\n- Activități ilegale de orice fel\n- Atacuri cibernetice, hacking sau acces neautorizat\n- Urmărirea, hărțuirea sau supravegherea persoanelor fără consimțământ\n- Crearea sau distribuirea de malware\n- Încălcarea drepturilor omului sau a libertăților fundamentale\n- Orice activitate care cauzează daune directe sau indirecte altor persoane",
+        "notResponsible": "Limitarea Răspunderii Noastre",
+        "notResponsibleDesc": "Privon Foundation oferă instrumente open-source și servicii „ca atare\". Nu suntem responsabili pentru modul în care terții aleg să folosească aceste instrumente. La fel cum un producător de cuțite nu este responsabil pentru modul în care cineva folosește un cuțit, noi nu suntem responsabili pentru utilizarea greșită a instrumentelor noastre.",
+        "legal": "Protecție Legală",
+        "legalDesc": "Prin utilizarea serviciilor noastre, ești de acord că:\n\n- Privon Foundation nu poate fi trasă la răspundere pentru daune cauzate de utilizarea greșită a instrumentelor sale\n- Este responsabilitatea ta să te asiguri că utilizarea respectă toate legile aplicabile\n- Nu oferim consultanță juridică — dacă ai întrebări legate de conformitate, consultă un avocat\n- Ne rezervăm dreptul de a refuza serviciile oricui considerăm că încalcă acest cod de etică",
+        "ethicalPrinciple": "Principiul Etic de Bază",
+        "ethicalPrincipleDesc": "Dacă un instrument poate fi folosit atât pentru bine, cât și pentru rău, alegem să-l construim pentru bine. Dar nu putem controla ce fac alții cu el. Aceasta este realitatea tehnologiei open-source. Ceea ce putem face este să spunem clar: nu susținem, nu încurajăm și nu facilităm utilizarea rău intenționată a instrumentelor noastre.",
+        "contact": "Contact",
+        "contactDesc": "Dacă ai întrebări despre acest cod de etică sau vrei să raportezi o utilizare greșită, contactează-ne la: privon.dev@tuta.io"
+      },
+      "en": {
+        "title": "Code of Ethics",
+        "lastUpdated": "Last updated: May 2026",
+        "intro": "Privon Foundation provides security and privacy tools to protect people, not to cause harm. This code of ethics establishes our expectations and legal boundaries.",
+        "purpose": "Purpose of This Code",
+        "purposeDesc": "This document is not just a legal formality. It is a statement of our values and a clear warning: our tools are created for protection, not attack. As creators, we take responsibility for what we build. As users, you are responsible for how you use these tools.",
+        "responsibleUse": "Responsible Use",
+        "responsibleUseDesc": "You agree NOT to use Privon Foundation services or applications for:\n\n- Illegal activities of any kind\n- Cyber attacks, hacking, or unauthorized access\n- Tracking, harassing, or surveilling people without consent\n- Creating or distributing malware\n- Violating human rights or fundamental freedoms\n- Any activity that causes direct or indirect harm to others",
+        "notResponsible": "Limitation of Our Liability",
+        "notResponsibleDesc": "Privon Foundation provides open-source tools and services \"as is\". We are not responsible for how third parties choose to use these tools. Just as a knife manufacturer is not responsible for how someone uses a knife, we are not responsible for the misuse of our tools.",
+        "legal": "Legal Protection",
+        "legalDesc": "By using our services, you agree that:\n\n- Privon Foundation cannot be held liable for damages caused by misuse of its tools\n- It is your responsibility to ensure your use complies with all applicable laws\n- We do not provide legal advice — if you have compliance questions, consult a lawyer\n- We reserve the right to refuse services to anyone we believe violates this code of ethics",
+        "ethicalPrinciple": "Core Ethical Principle",
+        "ethicalPrincipleDesc": "If a tool can be used for both good and harm, we choose to build it for good. But we cannot control what others do with it. This is the reality of open-source technology. What we can do is state clearly: we do not endorse, encourage, or facilitate malicious use of our tools.",
+        "contact": "Contact",
+        "contactDesc": "If you have questions about this code of ethics or want to report misuse, contact us at: privon.dev@tuta.io"
+      },
+      "es": {
+        "title": "Código de Ética",
+        "lastUpdated": "Última actualización: Mayo 2026",
+        "intro": "Privon Foundation proporciona herramientas de seguridad y privacidad para proteger a las personas, no para causar daño. Este código de ética establece nuestras expectativas y límites legales.",
+        "purpose": "Propósito de Este Código",
+        "purposeDesc": "Este documento no es solo una formalidad legal. Es una declaración de nuestros valores y una advertencia clara: nuestras herramientas están creadas para la protección, no para el ataque. Como creadores, asumimos la responsabilidad de lo que construimos. Como usuarios, tú eres responsable de cómo usas estas herramientas.",
+        "responsibleUse": "Uso Responsable",
+        "responsibleUseDesc": "Aceptas NO utilizar los servicios o aplicaciones de Privon Foundation para:\n\n- Actividades ilegales de cualquier tipo\n- Ataques cibernéticos, hacking o acceso no autorizado\n- Rastrear, acosar o vigilar personas sin consentimiento\n- Crear o distribuir malware\n- Violar derechos humanos o libertades fundamentales\n- Cualquier actividad que cause daño directo o indirecto a otros",
+        "notResponsible": "Limitación de Nuestra Responsabilidad",
+        "notResponsibleDesc": "Privon Foundation proporciona herramientas de código abierto y servicios \"tal cual\". No somos responsables de cómo terceros elijan usar estas herramientas. Así como un fabricante de cuchillos no es responsable de cómo alguien usa un cuchillo, no somos responsables del mal uso de nuestras herramientas.",
+        "legal": "Protección Legal",
+        "legalDesc": "Al usar nuestros servicios, aceptas que:\n\n- Privon Foundation no puede ser considerada responsable por daños causados por el mal uso de sus herramientas\n- Es tu responsabilidad asegurarte de que tu uso cumpla con todas las leyes aplicables\n- No proporcionamos asesoramiento legal — si tienes preguntas de cumplimiento, consulta a un abogado\n- Nos reservamos el derecho de rechazar servicios a cualquier persona que creamos que viola este código de ética",
+        "ethicalPrinciple": "Principio Ético Fundamental",
+        "ethicalPrincipleDesc": "Si una herramienta puede usarse tanto para el bien como para el mal, elegimos construirla para el bien. Pero no podemos controlar lo que otros hacen con ella. Esta es la realidad de la tecnología de código abierto. Lo que podemos hacer es declarar claramente: no respaldamos, fomentamos ni facilitamos el uso malintencionado de nuestras herramientas.",
+        "contact": "Contacto",
+        "contactDesc": "Si tienes preguntas sobre este código de ética o quieres reportar un uso indebido, contáctanos en: privon.dev@tuta.io"
+      }
+    }
+  },
+  "privacy": {
+    "PRIVACY": {
+      "ro": {
+        "title": "Politica de Confidențialitate",
+        "lastUpdated": "Ultima actualizare: Mai 2026",
+        "summary": "Nu colectăm NICIUN FEL DE DATE.",
+        "summaryDesc": "Suntem foarte serioși în privința asta. Această politică de confidențialitate este concepută să fie înțeleasă de oricine — nu avem nimic de ascuns.",
+        "protocolDesc": "Această politică este o implementare directă a Protocolului 3305 — un standard tehnic deschis care definește arhitectural imposibilitatea colectării de date ca dovadă pentru argumentele noastre din politica de confidențialitate.",
+        "noData": "Ce Date NU Colectăm",
+        "noDataList": [
+          "Adrese IP",
+          "Cookie-uri de urmărire",
+          "Identificatori unici de dispozitiv",
+          "Locație geografică",
+          "Istoric de navigare",
+          "Adrese de email",
+          "Nume sau prenume",
+          "Numere de telefon",
+          "Adrese poștale",
+          "Date biometrice",
+          "Informații demografice",
+          "Preferințe personale",
+          "Obiceiuri de consum",
+          "Istoric de căutări",
+          "Înregistrări audio sau video",
+          "Date de conectare (log-uri)",
+          "Semnături digitale",
+          "CNP-uri sau acte de identitate",
+          "Date bancare sau de card",
+          "Profile comportamentale",
+          "Date de pe rețele sociale",
+          "Nicio altă formă de date personale sau nepersonale"
+        ],
+        "impossibility": "De Ce Este Imposibil să Predăm Date Autorităților",
+        "impossibilityDesc": "Pentru că nu avem ce preda. Nu stocăm, nu procesăm, nu colectăm, nu accesăm, nu transmitem și nu solicităm niciun fel de date de la vizitatorii site-ului nostru sau de la oamenii care ne folosesc aplicațiile. Când spunem zero date, înțelegem zero date — de la zero bytes stocați până la zero cereri către servere externe. Orice autoritate care solicită date de la noi va primi un singur răspuns: nu există.",
+        "legal": "Conformitate Legală",
+        "legalEu": "Uniunea Europeană (GDPR)",
+        "legalEuDesc": "Respectăm Regulamentul General privind Protecția Datelor (GDPR) al Uniunii Europene. Deoarece nu colectăm date personale, suntem în deplină conformitate cu principiile de minimizare a datelor, limitare a stocării și transparență. Nu avem nevoie de consimțământ pentru cookie-uri pentru că nu folosim cookie-uri de urmărire. Nu avem nevoie de notificări de confidențialitate pentru că nu există date de notificat.",
+        "legalCh": "Elveția (nFADP / LPD)",
+        "legalChDesc": "Ne aliniem și Legii Federale privind Protecția Datelor (nFADP/LPD) din Elveția, unde planificăm să ne stabilim oficial. Legea elvețiană cere transparență și securitate — noi oferim ambele prin arhitectura noastră zero-date.",
+        "rightsTitle": "Drepturile Tale",
+        "rightsDesc": "Deși nu deținem niciun fel de date despre tine, respectăm pe deplin următoarele drepturi conform GDPR și LPD:",
+        "rightsList": [
+          "Dreptul de acces — poți solicita confirmarea că nu avem date despre tine",
+          "Dreptul la ștergere — nu avem nimic de șters",
+          "Dreptul la rectificare — nu avem date incorecte de corectat",
+          "Dreptul la portabilitate — nu avem date de transferat",
+          "Dreptul la opoziție — te poți opune colectării de date pe care oricum nu o facem",
+          "Dreptul de a fi informat — ești informat chiar acum"
+        ],
+        "thirdParty": "Servicii Terțe",
+        "thirdPartyDesc": "Site-ul nostru este complet static și nu încarcă scripturi externe, trackere, reclame, analitice sau fonturi de la terți. Nu folosim Google Analytics, Facebook Pixel sau orice alt serviciu de monitorizare. Toate resursele — imagini, fonturi și stiluri — sunt găzduite local, pe același domeniu.",
+        "updates": "Actualizări ale Politicii",
+        "updatesDesc": "Această politică de confidențialitate poate fi actualizată ocazional pentru a reflecta schimbări în practicile noastre sau în cerințele legale. Orice modificare va fi publicată pe această pagină, iar data ultimei actualizări va fi actualizată în consecință. Deoarece nu colectăm date, aceste actualizări nu îți vor afecta drepturile sau experiența.",
+        "contact": "Contact",
+        "contactDesc": "Pentru întrebări legate de această politică de confidențialitate, folosim Tuta — un serviciu de email criptat care nu folosește conținutul mesajelor pentru profilare. Adresa este disponibilă doar pentru contacte necesare, nu pentru înregistrări sau colectare de date: privon.dev@tuta.io"
+      },
+      "en": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last updated: May 2026",
+        "summary": "We collect NO DATA WHATSOEVER.",
+        "summaryDesc": "We are absolutely serious about this. This privacy policy is designed to be understood by anyone — we have nothing to hide.",
+        "protocolDesc": "This policy is a direct implementation of Protocol 3305 — an open technical standard that architecturally defines the impossibility of data collection as proof for our privacy policy arguments.",
+        "noData": "What Data We Do NOT Collect",
+        "noDataList": [
+          "IP addresses",
+          "Tracking cookies",
+          "Unique device identifiers",
+          "Geographic location",
+          "Browsing history",
+          "Email addresses",
+          "First or last names",
+          "Phone numbers",
+          "Postal addresses",
+          "Biometric data",
+          "Demographic information",
+          "Personal preferences",
+          "Consumer habits",
+          "Search history",
+          "Audio or video recordings",
+          "Connection logs",
+          "Digital signatures",
+          "National ID numbers or identity documents",
+          "Banking or card data",
+          "Behavioral profiles",
+          "Social media data",
+          "No other form of personal or non-personal data"
+        ],
+        "impossibility": "Why It Is Impossible to Hand Over Data to Authorities",
+        "impossibilityDesc": "Because there is nothing to hand over. We do not store, process, collect, access, transmit, or request any data from our website visitors or people using our applications. When we say zero data, we mean zero data — from zero bytes stored to zero requests to external servers. Any authority requesting data from us will receive a single answer: it does not exist.",
+        "legal": "Legal Compliance",
+        "legalEu": "European Union (GDPR)",
+        "legalEuDesc": "We comply with the General Data Protection Regulation (GDPR) of the European Union. Since we do not collect personal data, we are in full compliance with the principles of data minimization, storage limitation, and transparency. We do not need cookie consent because we do not use tracking cookies. We do not need privacy notices because there is no data to report.",
+        "legalCh": "Switzerland (nFADP / LPD)",
+        "legalChDesc": "We also align with the Federal Act on Data Protection (nFADP/LPD) of Switzerland, where we plan to establish ourselves officially. Swiss law demands transparency and security — we deliver both through our zero-data architecture.",
+        "rightsTitle": "Your Rights",
+        "rightsDesc": "Although we do not hold any data about you, we fully respect the following rights under GDPR and LPD:",
+        "rightsList": [
+          "Right of access — you may request confirmation that we have no data about you",
+          "Right to erasure — we have nothing to delete",
+          "Right to rectification — we have no incorrect data to correct",
+          "Right to portability — we have no data to transfer",
+          "Right to object — you may object to data collection that we are not doing anyway",
+          "Right to be informed — you are being informed right now"
+        ],
+        "thirdParty": "Third-Party Services",
+        "thirdPartyDesc": "Our website is fully static and loads no external scripts, trackers, ads, analytics, or third-party fonts. We do not use Google Analytics, Facebook Pixel, or any other monitoring service. Every asset — images, fonts, and styles — is hosted locally on the same domain.",
+        "updates": "Policy Updates",
+        "updatesDesc": "This privacy policy may be updated occasionally to reflect changes in our practices or legal requirements. Any modifications will be published on this page, and the last updated date will be revised accordingly. Since we do not collect data, these updates will not affect your rights or experience.",
+        "contact": "Contact",
+        "contactDesc": "For questions regarding this privacy policy, we use Tuta — an encrypted email service that does not use message content for profiling. The address is available only for necessary contacts, not for registration or data collection: privon.dev@tuta.io"
+      },
+      "es": {
+        "title": "Política de Privacidad",
+        "lastUpdated": "Última actualización: Mayo 2026",
+        "summary": "NO RECOPILAMOS NINGÚN TIPO DE DATOS.",
+        "summaryDesc": "Hablamos muy en serio. Esta política de privacidad está diseñada para que cualquiera la entienda — no tenemos nada que ocultar.",
+        "protocolDesc": "Esta política es una implementación directa del Protocolo 3305 — un estándar técnico abierto que define arquitectónicamente la imposibilidad de recolección de datos como prueba de nuestros argumentos de privacidad.",
+        "noData": "Qué Datos NO Recopilamos",
+        "noDataList": [
+          "Direcciones IP",
+          "Cookies de rastreo",
+          "Identificadores únicos de dispositivo",
+          "Ubicación geográfica",
+          "Historial de navegación",
+          "Direcciones de correo electrónico",
+          "Nombres o apellidos",
+          "Números de teléfono",
+          "Direcciones postales",
+          "Datos biométricos",
+          "Información demográfica",
+          "Preferencias personales",
+          "Hábitos de consumo",
+          "Historial de búsquedas",
+          "Grabaciones de audio o video",
+          "Registros de conexión",
+          "Firmas digitales",
+          "Documentos de identidad",
+          "Datos bancarios o de tarjetas",
+          "Perfiles de comportamiento",
+          "Datos de redes sociales",
+          "Ninguna otra forma de datos personales o no personales"
+        ],
+        "impossibility": "Por Qué Es Imposible Entregar Datos a las Autoridades",
+        "impossibilityDesc": "Porque no hay nada que entregar. No almacenamos, procesamos, recopilamos, accedemos, transmitimos ni solicitamos ningún dato de los visitantes de nuestro sitio web o las personas que usan nuestras aplicaciones. Cuando decimos cero datos, queremos decir cero datos — desde cero bytes almacenados hasta cero solicitudes a servidores externos. Cualquier autoridad que solicite datos de nosotros recibirá una única respuesta: no existen.",
+        "legal": "Cumplimiento Legal",
+        "legalEu": "Unión Europea (GDPR)",
+        "legalEuDesc": "Cumplimos con el Reglamento General de Protección de Datos (GDPR) de la Unión Europea. Dado que no recopilamos datos personales, estamos en pleno cumplimiento de los principios de minimización de datos, limitación del almacenamiento y transparencia. No necesitamos consentimiento de cookies porque no usamos cookies de rastreo. No necesitamos avisos de privacidad porque no hay datos que reportar.",
+        "legalCh": "Suiza (nFADP / LPD)",
+        "legalChDesc": "También nos alineamos con la Ley Federal de Protección de Datos (nFADP/LPD) de Suiza, donde planeamos establecernos oficialmente. La ley suiza exige transparencia y seguridad — nosotros ofrecemos ambas a través de nuestra arquitectura de cero datos.",
+        "rightsTitle": "Tus Derechos",
+        "rightsDesc": "Aunque no poseemos ningún dato sobre ti, respetamos plenamente los siguientes derechos conforme al GDPR y la LPD:",
+        "rightsList": [
+          "Derecho de acceso — puedes solicitar confirmación de que no tenemos datos sobre ti",
+          "Derecho de supresión — no tenemos nada que eliminar",
+          "Derecho de rectificación — no tenemos datos incorrectos que corregir",
+          "Derecho a la portabilidad — no tenemos datos que transferir",
+          "Derecho de oposición — puedes oponerte a la recopilación de datos que de todos modos no realizamos",
+          "Derecho a ser informado — estás siendo informado ahora mismo"
+        ],
+        "thirdParty": "Servicios de Terceros",
+        "thirdPartyDesc": "Nuestro sitio web es completamente estático y no carga scripts externos, rastreadores, anuncios, analíticas ni fuentes de terceros. No usamos Google Analytics, Facebook Pixel ni ningún otro servicio de monitoreo. Todos los recursos — imágenes, fuentes y estilos — están alojados localmente en el mismo dominio.",
+        "updates": "Actualizaciones de la Política",
+        "updatesDesc": "Esta política de privacidad puede actualizarse ocasionalmente para reflejar cambios en nuestras prácticas o requisitos legales. Cualquier modificación se publicará en esta página y la fecha de la última actualización se revisará en consecuencia. Dado que no recopilamos datos, estas actualizaciones no afectarán tus derechos ni tu experiencia.",
+        "contact": "Contacto",
+        "contactDesc": "Para preguntas sobre esta política de privacidad, usamos Tuta — un servicio de correo cifrado que no utiliza el contenido de los mensajes para crear perfiles. La dirección está disponible solo para contactos necesarios, no para registro o recopilación de datos: privon.dev@tuta.io"
+      }
+    }
+  },
+  "terms": {
+    "TERMS": {
+      "ro": {
+        "title": "Termeni și Condiții",
+        "lastUpdated": "Ultima actualizare: Mai 2026",
+        "intro": "Bine ai venit la Privon Foundation. Folosind site-ul și serviciile noastre, ești de acord cu următorii termeni și condiții.",
+        "acceptance": "Acceptarea Termenilor",
+        "acceptanceDesc": "Accesând sau folosind în orice mod site-ul nostru, serviciile sau aplicațiile, confirmi că ai citit, înțeles și ești de acord să respecți acești termeni. Dacă nu ești de acord, nu folosi serviciile noastre.",
+        "services": "Descrierea Serviciilor",
+        "servicesDesc": "Privon Foundation oferă soluții de securitate cibernetică, instrumente de confidențialitate și aplicații open-source. Toate serviciile noastre sunt furnizate „ca atare\", în conformitate cu principiile Protocolului 3305 — zero colectare de date, zero încredere, zero cunoștințe.",
+        "noWarranty": "Fără Garanție",
+        "noWarrantyDesc": "Serviciile și aplicațiile noastre sunt oferite „ca atare\", fără nicio garanție, expresă sau implicită. Nu garantăm că vor funcționa corect în orice mediu, în orice condiții sau pentru orice scop. Folosești serviciile noastre pe propriul tău risc. Nu garantăm că serviciile noastre vor fi neîntrerupte, sigure sau fără erori.",
+        "noData": "Zero Date",
+        "noDataDesc": "Ca parte a angajamentului nostru față de confidențialitate, NU colectăm, stocăm, procesăm sau transmitem date personale ale vizitatorilor sau ale oamenilor care ne folosesc serviciile. Aceasta este o garanție arhitecturală, nu doar o promisiune legală. Consultă Politica noastră de Confidențialitate pentru detalii.",
+        "intellectual": "Proprietate Intelectuală",
+        "intellectualDesc": "Tot codul, designul, conținutul și materialele site-ului Privon Foundation sunt licențiate sub AGPL-3.0, cu excepția cazului în care se specifică altfel. Ești liber să folosești, modifici și distribui codul în conformitate cu termenii AGPL-3.0.",
+        "license": "AGPL-3.0",
+        "licenseDesc": "Acest proiect și toate aplicațiile noastre sunt licențiate sub GNU Affero General Public License v3.0. Aceasta înseamnă că poți folosi, modifica și distribui software-ul, cu condiția ca orice versiune modificată să fie, de asemenea, distribuită sub aceeași licență, iar oamenii care folosesc rețeaua să aibă acces la codul sursă.",
+        "liability": "Limitarea Răspunderii",
+        "liabilityDesc": "În cea mai mare măsură permisă de lege, Privon Foundation nu va fi răspunzătoare pentru daune directe, indirecte, accidentale sau consecutive rezultate din folosirea sau imposibilitatea de a folosi serviciile noastre. Deoarece nu colectăm date, nu putem fi considerați responsabili pentru pierderea de date care oricum nu există.",
+        "changes": "Modificări ale Termenilor",
+        "changesDesc": "Ne rezervăm dreptul de a modifica acești termeni în orice moment. Modificările vor fi publicate pe această pagină. Continuarea utilizării serviciilor după publicarea modificărilor constituie acceptarea noilor termeni.",
+        "governing": "Legea Aplicabilă",
+        "governingDesc": "Acești termeni sunt guvernați de legile Elveției, unde planificăm să ne stabilim oficial. Orice dispută va fi soluționată în instanțele competente din Elveția.",
+        "contact": "Contact",
+        "contactDesc": "Pentru întrebări legate de acești termeni, contactează-ne la: privon.dev@tuta.io"
+      },
+      "en": {
+        "title": "Terms and Conditions",
+        "lastUpdated": "Last updated: May 2026",
+        "intro": "Welcome to Privon Foundation. By using our website and services, you agree to the following terms and conditions.",
+        "acceptance": "Acceptance of Terms",
+        "acceptanceDesc": "By accessing or using our website, services, or applications in any way, you confirm that you have read, understood, and agree to be bound by these terms. If you do not agree, do not use our services.",
+        "services": "Description of Services",
+        "servicesDesc": "Privon Foundation provides cybersecurity solutions, privacy tools, and open-source applications. All our services are provided \"as is\" in accordance with the principles of Protocol 3305 — zero data collection, zero trust, zero knowledge.",
+        "noWarranty": "No Warranty",
+        "noWarrantyDesc": "Our services and applications are provided \"as is\" without any warranty, express or implied. We do not guarantee that they will function correctly in any environment, under any conditions, or for any purpose. You use our services at your own risk. We do not guarantee that our services will be uninterrupted, secure, or error-free.",
+        "noData": "Zero Data",
+        "noDataDesc": "As part of our commitment to privacy, we do NOT collect, store, process, or transmit personal data of our visitors or users. This is an architectural guarantee, not just a legal promise. See our Privacy Policy for details.",
+        "intellectual": "Intellectual Property",
+        "intellectualDesc": "All code, design, content, and materials on the Privon Foundation website are licensed under AGPL-3.0, unless otherwise specified. You are free to use, modify, and distribute the code in accordance with the terms of AGPL-3.0.",
+        "license": "AGPL-3.0 License",
+        "licenseDesc": "This project and all our applications are licensed under the GNU Affero General Public License v3.0. This means you may use, modify, and distribute the software, provided that any modified version is also distributed under the same license and the people using the network have access to the source code.",
+        "liability": "Limitation of Liability",
+        "liabilityDesc": "To the maximum extent permitted by law, Privon Foundation shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use our services. Since we do not collect data, we cannot be held liable for data loss that does not exist.",
+        "changes": "Changes to Terms",
+        "changesDesc": "We reserve the right to modify these terms at any time. Changes will be posted on this page. Continued use of our services after changes are posted constitutes acceptance of the new terms.",
+        "governing": "Governing Law",
+        "governingDesc": "These terms are governed by the laws of Switzerland, where we plan to establish ourselves officially. Any dispute shall be resolved in the competent courts of Switzerland.",
+        "contact": "Contact",
+        "contactDesc": "For questions regarding these terms, contact us at: privon.dev@tuta.io"
+      },
+      "es": {
+        "title": "Términos y Condiciones",
+        "lastUpdated": "Última actualización: Mayo 2026",
+        "intro": "Bienvenido a Privon Foundation. Al usar nuestro sitio web y servicios, aceptas los siguientes términos y condiciones.",
+        "acceptance": "Aceptación de los Términos",
+        "acceptanceDesc": "Al acceder o usar nuestro sitio web, servicios o aplicaciones de cualquier manera, confirmas que has leído, entendido y aceptas cumplir con estos términos. Si no estás de acuerdo, no uses nuestros servicios.",
+        "services": "Descripción de los Servicios",
+        "servicesDesc": "Privon Foundation proporciona soluciones de ciberseguridad, herramientas de privacidad y aplicaciones de código abierto. Todos nuestros servicios se proporcionan \"tal cual\" de acuerdo con los principios del Protocolo 3305 — cero recopilación de datos, cero confianza, cero conocimiento.",
+        "noWarranty": "Sin Garantía",
+        "noWarrantyDesc": "Nuestros servicios y aplicaciones se proporcionan \"tal cual\", sin ninguna garantía, expresa o implícita. No garantizamos que funcionen correctamente en cualquier entorno, bajo cualquier condición o para cualquier propósito. Usas nuestros servicios bajo tu propio riesgo. No garantizamos que nuestros servicios sean ininterrumpidos, seguros o libres de errores.",
+        "noData": "Cero Datos",
+        "noDataDesc": "Como parte de nuestro compromiso con la privacidad, NO recopilamos, almacenamos, procesamos ni transmitimos datos personales de nuestros visitantes o usuarios. Esta es una garantía arquitectónica, no solo una promesa legal. Consulta nuestra Política de Privacidad para más detalles.",
+        "intellectual": "Propiedad Intelectual",
+        "intellectualDesc": "Todo el código, diseño, contenido y materiales del sitio web de Privon Foundation están licenciados bajo AGPL-3.0, a menos que se especifique lo contrario. Eres libre de usar, modificar y distribuir el código de acuerdo con los términos de AGPL-3.0.",
+        "license": "Licencia AGPL-3.0",
+        "licenseDesc": "Este proyecto y todas nuestras aplicaciones están licenciados bajo la GNU Affero General Public License v3.0. Esto significa que puedes usar, modificar y distribuir el software, siempre que cualquier versión modificada también se distribuya bajo la misma licencia y las personas que usan la red tengan acceso al código fuente.",
+        "liability": "Limitación de Responsabilidad",
+        "liabilityDesc": "En la máxima medida permitida por la ley, Privon Foundation no será responsable por daños directos, indirectos, incidentales o consecuentes derivados del uso o la imposibilidad de usar nuestros servicios. Dado que no recopilamos datos, no podemos ser responsables por la pérdida de datos que no existen.",
+        "changes": "Cambios en los Términos",
+        "changesDesc": "Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios se publicarán en esta página. El uso continuado de nuestros servicios después de la publicación de los cambios constituye la aceptación de los nuevos términos.",
+        "governing": "Ley Aplicable",
+        "governingDesc": "Estos términos se rigen por las leyes de Suiza, donde planeamos establecernos oficialmente. Cualquier disputa se resolverá en los tribunales competentes de Suiza.",
+        "contact": "Contacto",
+        "contactDesc": "Para preguntas sobre estos términos, contáctanos en: privon.dev@tuta.io"
+      }
+    }
+  }
+}
