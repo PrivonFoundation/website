@@ -1,6 +1,6 @@
 # Privon Foundation — website
 
-Static, zero-JavaScript website for Privon Foundation, Protocol-3305, and Privon Vault (CrytoTool).
+Static, zero-JavaScript website for Privon Foundation, Protocol-3305, and Privon Vault.
 
 ## Stack
 
